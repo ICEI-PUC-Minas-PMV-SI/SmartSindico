@@ -2,26 +2,9 @@
 
 O **SmartSíndico** é um projeto de aplicativo voltado para a modernização da gestão condominial, desenvolvido com o propósito de centralizar e otimizar os principais processos administrativos de condomínios residenciais e comerciais. Em um contexto onde a tecnologia tem transformado a forma como pessoas e empresas se organizam, muitos condomínios ainda enfrentam dificuldades relacionadas à comunicação ineficiente, falta de transparência financeira, processos burocráticos e controle descentralizado de informações.
 
-O problema identificado está na gestão tradicional, que muitas vezes depende de planilhas, murais físicos, grupos informais de mensagens e controles manuais. Isso pode gerar falhas na comunicação, atraso na resolução de ocorrências, dificuldade no acompanhamento financeiro e insatisfação por parte dos moradores. Além disso, síndicos e administradores frequentemente acumulam funções, o que torna a organização ainda mais desafiadora.
-
-Diante desse cenário, o SmartSíndico tem como objetivo principal oferecer uma plataforma digital integrada que permita o gerenciamento financeiro (emissão de boletos, controle de inadimplência e prestação de contas), registro e acompanhamento de ocorrências, reservas de áreas comuns, envio de comunicados e realização de assembleias virtuais. O projeto busca promover mais transparência, agilidade e organização na rotina condominial, facilitando a tomada de decisões e melhorando o relacionamento entre as partes envolvidas.
-
-A justificativa do projeto está na crescente demanda por soluções tecnológicas que simplifiquem processos e aumentem a eficiência administrativa. Ao digitalizar e centralizar as informações, o SmartSíndico reduz a burocracia, minimiza erros operacionais e fortalece a confiança entre síndicos e moradores, contribuindo para uma gestão mais profissional e participativa.
-
-O público-alvo do projeto inclui síndicos, subsíndicos, administradoras de condomínios e moradores de condomínios residenciais e comerciais que buscam uma solução prática, segura e moderna para a gestão do dia a dia condominial.
-
-
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema identificado está na gestão administrativa de condomínios residenciais e comerciais, que em muitos casos ainda é realizada por meio de processos manuais, planilhas isoladas, registros em papel e aplicativos de mensagens não estruturados. Esse modelo de administração dificulta a organização das informações, aumenta o risco de erros e compromete a eficiência das atividades do dia a dia.
 
 ## Objetivos
 
