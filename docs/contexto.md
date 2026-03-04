@@ -1,6 +1,15 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O **SmartSíndico** é um projeto de aplicativo voltado para a modernização da gestão condominial, desenvolvido com o propósito de centralizar e otimizar os principais processos administrativos de condomínios residenciais e comerciais. Em um contexto onde a tecnologia tem transformado a forma como pessoas e empresas se organizam, muitos condomínios ainda enfrentam dificuldades relacionadas à comunicação ineficiente, falta de transparência financeira, processos burocráticos e controle descentralizado de informações.
+
+O problema identificado está na gestão tradicional, que muitas vezes depende de planilhas, murais físicos, grupos informais de mensagens e controles manuais. Isso pode gerar falhas na comunicação, atraso na resolução de ocorrências, dificuldade no acompanhamento financeiro e insatisfação por parte dos moradores. Além disso, síndicos e administradores frequentemente acumulam funções, o que torna a organização ainda mais desafiadora.
+
+Diante desse cenário, o SmartSíndico tem como objetivo principal oferecer uma plataforma digital integrada que permita o gerenciamento financeiro (emissão de boletos, controle de inadimplência e prestação de contas), registro e acompanhamento de ocorrências, reservas de áreas comuns, envio de comunicados e realização de assembleias virtuais. O projeto busca promover mais transparência, agilidade e organização na rotina condominial, facilitando a tomada de decisões e melhorando o relacionamento entre as partes envolvidas.
+
+A justificativa do projeto está na crescente demanda por soluções tecnológicas que simplifiquem processos e aumentem a eficiência administrativa. Ao digitalizar e centralizar as informações, o SmartSíndico reduz a burocracia, minimiza erros operacionais e fortalece a confiança entre síndicos e moradores, contribuindo para uma gestão mais profissional e participativa.
+
+O público-alvo do projeto inclui síndicos, subsíndicos, administradoras de condomínios e moradores de condomínios residenciais e comerciais que buscam uma solução prática, segura e moderna para a gestão do dia a dia condominial.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
