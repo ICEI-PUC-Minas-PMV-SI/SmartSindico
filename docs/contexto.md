@@ -8,12 +8,25 @@ O problema identificado está na gestão administrativa de condomínios residenc
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos deste trabalho estão diretamente relacionados à necessidade de melhorar a organização, a transparência e a eficiência na gestão condominial.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo geral é desenvolver um software capaz de solucionar os problemas identificados na administração de condomínios, especialmente aqueles relacionados à desorganização das informações, falhas na comunicação, dificuldades na prestação de contas e conflitos no controle de reservas de áreas comuns.
+
+Como objetivos específicos, destacam-se:
+
+Centralizar as informações administrativas em um único sistema;
+
+Melhorar o controle financeiro, facilitando o registro e a visualização de receitas e despesas;
+
+Proporcionar maior transparência na prestação de contas;
+
+Organizar e automatizar o processo de reservas de áreas comuns;
+
+Facilitar a comunicação entre administração e moradores;
+
+Reduzir erros operacionais e retrabalho na rotina condominial.
+
+Dessa forma, o trabalho busca oferecer uma solução tecnológica que torne a gestão mais eficiente, organizada e confiável.
 
 ## Justificativa
 
