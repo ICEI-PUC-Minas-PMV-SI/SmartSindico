@@ -45,8 +45,15 @@ Diante desse cenário, o SmartSíndico foi idealizado para utilizar a tecnologia
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A aplicação será utilizada por pessoas envolvidas na rotina administrativa e operacional de condomínios residenciais e comerciais. De modo geral, os usuários possuem nível de responsabilidade e relação hierárquica dentro do ambiente condominial.
+
+Síndico, que pode ser morador eleito ou profissional contratado. Esse usuário normalmente possui responsabilidade direta sobre decisões administrativas e financeiras. Seu nível de conhecimento tecnológico pode variar bastante: enquanto alguns têm boa familiaridade com sistemas digitais e aplicativos, outros possuem apenas conhecimentos básicos, utilizando principalmente ferramentas simples como aplicativos de mensagens e planilhas.
+
+Outro perfil é o de colaboradores administrativos ou representantes de administradoras de condomínio. Esses usuários tendem a ter maior contato com rotinas financeiras e burocráticas, como emissão de boletos, controle de inadimplência e organização de documentos. Em geral, possuem conhecimento intermediário em informática e estão habituados ao uso de sistemas de gestão.
+
+Também fazem parte do público os moradores, que utilizam a aplicação principalmente para acompanhar informações, consultar comunicados, verificar dados financeiros e realizar reservas de áreas comuns. Esse grupo apresenta níveis variados de familiaridade com tecnologia, desde usuários que utilizam aplicativos e serviços digitais diariamente até pessoas com menor experiência digital, exigindo uma interface simples e intuitiva.
+
+Em termos hierárquicos, há uma relação administrativa clara entre síndico, administradora e moradores, mas todos compartilham a necessidade de acesso a informações confiáveis e organizadas. Por isso, a aplicação deve considerar diferentes níveis de experiência tecnológica e diferentes responsabilidades dentro do contexto condominial.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
